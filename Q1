@@ -9,3 +9,5 @@ creates an object without assigning any initial values to the object’s fundame
 members—data members must be initialized using the object’s member functions. Every constructor 
 implicitly calls the constructors of any data member objects before the body of the class’s 
 constructor executes.
+
+%100 wrong.
